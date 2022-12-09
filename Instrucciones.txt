@@ -1,0 +1,8 @@
+Para ingresar al programa debe ingresar agregando
+USER: 1
+PASS: 1
+
+Para ingresar a Gestion Empleados debe digitar 
+USER: ADMIN
+PASS: ADMIN
+
